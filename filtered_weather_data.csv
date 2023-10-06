@@ -1,0 +1,33 @@
+Date,City,Temperature(C),Humidity(%),Condition,Weather Type
+2022-01-01, Johannesburg, 25, 60, Sunny, Warm
+2022-01-01, Cape Town, -1, 65, Cloudy, Cold
+2022-01-01, Durban, 28, -1, Rainy, Warm
+2022-01-01, Pretoria, twenty three, 55, Sunday, Moderate
+2022-01-02, Johannesburg, 24, 58, Cloudy, Warm
+2022-01-02, Cape Town, 21, 67, Rainy, Moderate
+2022-01-02, Durban, 29, 72, Sunny, Warm
+2022-01-02, Pretoria, -1, 53, Sunny, Cold
+2022-01-03, Johannesburg, 23, 59, Rainy, Moderate
+2022-01-03, Cape Town, 20, 65, Sunny, Moderate
+2022-01-03, Durban, -1, 70, Rainy, Cold
+2022-01-03, Pretoria, 26, 50, Cloudy, Warm
+2022-01-04, Johannesburg, 22, -1, Cloudy, Moderate
+2022-01-04, Cape Town, 19, 64, Sunday, Moderate
+2022-01-04, Durban, 30, 69, Sunny, Warm
+2022-01-04, Pretoria, 27, 52, Sunny, Warm
+2022-01-05, Johannesburg, 23, 57, Sunny, Moderate
+2022-01-05, Cape Town, -1, 63, Rainy, Cold
+2022-01-05, Durban, 28, 68, Rainy, Warm
+2022-01-05, Pretoria, 25, -1, Sunny, Warm
+2022-01-06, Johannesburg, 24, 56, Cloudy, Warm
+2022-01-06, Cape Town, 20, 62, Sunny, Moderate
+2022-01-06, Durban, 29, 71, Rainy, Warm
+2022-01-06, Pretoria, 26, 54, Cloudy, Warm
+2022-01-07, Johannesburg, 23, 58, Sunny, Moderate
+2022-01-07, Cape Town, 19, -1, Cloudy, Moderate
+2022-01-07, Durban, 28, 70, Rainy, Warm
+2022-01-07, Pretoria, -1, 53, Sunny, Cold
+2022-01-08, Johannesburg, 25, 60, Sunny, Warm
+2022-01-08, Cape Town, 20, 61, Rainy, Moderate
+2022-01-08, Durban, 27, 69, Sunday, Warm
+2022-01-08, Pretoria, 24, 55, Cloudy, Warm
